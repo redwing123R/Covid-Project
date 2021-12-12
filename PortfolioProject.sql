@@ -1,8 +1,3 @@
-Select *
-FROM PortfolioProject..CovidDeaths$
-ORDER BY 3,4
-
-
 -- Selecting Data I will be using
 
 Select location, date, total_cases, new_cases, total_deaths, population
